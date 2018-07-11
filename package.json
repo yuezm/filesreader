@@ -1,0 +1,27 @@
+{
+  "name": "filesreader",
+  "version": "1.0.0",
+  "description": "a file deep reader",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuezm/filesreader.git"
+  },
+  "keywords": [
+    "file",
+    "utils",
+    "directory"
+  ],
+  "author": "yong.liu <ly_wuyi@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuezm/filesreader/issues"
+  },
+  "homepage": "https://github.com/yuezm/filesreader#readme"
+}
